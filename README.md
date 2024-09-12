@@ -2,6 +2,7 @@
 
 ## Goal
 
+
 Identification of Queen Status, given a Bee Audio dataset and some ancilliary metadata on the audio files. More information can be found in the `notebooks/`. Some example architectures (before hyper-parameter optimisation) can also be found in this sub-directory.
 
 ## Information
